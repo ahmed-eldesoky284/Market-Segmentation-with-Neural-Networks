@@ -35,7 +35,7 @@ The code provided here performs the following tasks:
 
 
 ## File Structure
-  `Untitled.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model building,
+  `Market Segmentation with Neural Network.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model building,
   and evaluation.
   `bank-additional-full.csv`: CSV file containing the bank marketing dataset.
   README.md: This file providing instructions and information about the project.
